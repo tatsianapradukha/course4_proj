@@ -26,7 +26,7 @@ class Dev(Configuration):
 
     # SECURITY WARNING: keep the secret key used in production secret!
     SECRET_KEY = 'django-insecure-zaiqyyg8b%h58-f)dga!6sgs$tkk1qi*m_$gv=w=%_3)pdj@e@'
-    OMDB_KEY = "1f2a5b0f"
+    OMDB_KEY = ""
     # SECURITY WARNING: don't run with debug turned on in production!
     DEBUG = True
 
